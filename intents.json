@@ -1,0 +1,30 @@
+{
+  "intents": [
+    {
+      "tag": "MentalHealth_Stress",
+      "patterns": ["I'm feeling stressed", "How can I manage stress?", "Tips for stress relief?"],
+      "responses": ["Stress can be managed through deep breathing, meditation, physical activity, and taking breaks. Would you like some tips on how to relax?"]
+    },
+    {
+      "tag": "MentalHealth_Anxiety",
+      "patterns": ["I feel anxious", "How do I deal with anxiety?", "What are the symptoms of anxiety?"],
+      "responses": ["Anxiety symptoms include restlessness, rapid heartbeat, and difficulty focusing. Try grounding techniques, like focusing on your breathing or physical sensations."]
+    },
+    {
+      "tag": "MentalHealth_Depression",
+      "patterns": ["I feel sad all the time", "What is depression?", "Signs of depression?"],
+      "responses": ["Depression can manifest as sadness, fatigue, and loss of interest in activities. It's important to talk to someone or seek professional help if you feel this way often."]
+    },
+    {
+      "tag": "MentalHealth_SelfCare",
+      "patterns": ["What are some self-care tips?", "How do I practice self-care?", "Ways to take care of mental health?"],
+      "responses": ["Self-care includes activities like meditation, spending time with loved ones, getting enough sleep, and maintaining a healthy diet."]
+    },
+    {
+      "tag": "MentalHealth_ProfessionalHelp",
+      "patterns": ["How can I find a therapist?", "When should I see a mental health professional?", "Do I need therapy?"],
+      "responses": ["If you're struggling with your mental health regularly, it may help to see a therapist. They can provide support and coping strategies tailored to your needs."]
+    }
+  ]
+}
+  
